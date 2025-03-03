@@ -5,6 +5,7 @@
 Este proyecto es una suite de automatización de pruebas para la página "Rayitos de Sol" utilizando Selenium y Cucumber. El objetivo es verificar el correcto funcionamiento de los servicios de "Contactenos" y "Calculadora" en la página web.
 
 ## Estructura del Proyecto
+```
 SolarAppFrontTest/
 ├── app/
 │
@@ -26,7 +27,7 @@ SolarAppFrontTest/
 │ │ │ │ │ └── RayitoSol.feature
 │ │ │ │ ├── extent.properties
 ├── settings.gradle
-
+```
 ## Herramientas Utilizadas
 
 - **Selenium**: Biblioteca para la automatización de navegadores web.
